@@ -1,4 +1,4 @@
-<h1 align="left">Merhaba, ben Shely</h1>
+<h1 align="left">Merhaba, ben Arda namı değer Shely</h1>
 <h3 align="left">16 Yaşındayım, mobil ve full stack web geliştiriyorum</h3>
 
 - Üzerinde çalıştığım proje [alifehospital.com.tr]https://www.alifehospital.com.tr)
@@ -26,7 +26,7 @@
 <h3>Teknolojiler</h3>
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/ichttps://www.vectorlogo.zone/logos/firebase/firebase-icon.svgons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="30" height="30"/>  
 </p>
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jondot&layout=compact" alt="shely"/></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jondot&layout=compact" alt="shely"/></p>-
