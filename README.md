@@ -1,4 +1,4 @@
-<h1 align="left">Merhaba, ben Arda namı değer Shely</h1>
+<h1 align="left">Merhaba, ben Arda - Shely</h1>
 <h3 align="left">16 Yaşındayım, mobil ve full stack web geliştiriyorum</h3>
 
 - Üzerinde çalıştığım proje [alifehospital.com.tr]https://www.alifehospital.com.tr)
