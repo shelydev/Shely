@@ -1,7 +1,7 @@
-<h1 align="left">Merhaba, ben Arda - Shely</h1>
+<h1 align="left">Merhaba, ben Arda namı değer Shely</h1>
 <h3 align="left">16 Yaşındayım, mobil ve full stack web geliştiriyorum</h3>
 
-- Üzerinde çalıştığım proje [alifehospital.com.tr]https://www.alifehospital.com.tr)
+- Üzerinde çalıştığım proje [A Life Hospital](https://www.alifehospital.com.tr)
 
 - Şu anda kullandığım framework **Angular ve React**
 
@@ -29,4 +29,4 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="30" height="30"/>  
 </p>
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jondot&layout=compact" alt="shely"/></p>-
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jondot&layout=compact" alt="shely"/></p>
